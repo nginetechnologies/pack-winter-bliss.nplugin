@@ -1731,7 +1731,7 @@
         "path": "Assets/Source/Material Instances/Gold.mtli.nasset",
         "thumbnail": "84b8059a-c1f1-429c-4cb2-27be473f048a",
         "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+            "40bcfd38-00d8-4d1c-b231-1f8f77b23c9a"
         ]
     },
     "6e37098d-0dec-bc1b-b605-9808ec0f1622": {
@@ -1755,10 +1755,6 @@
             "4190396c-95ed-ea4f-1dcb-41c43ada6355",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
     "6f9c7752-8377-250e-3561-e070f4896e2d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
